@@ -16,7 +16,7 @@ struct Node {
 /// @brief A singly linked list class supporting insertion, deletion, traversal, and more.
 class LinkedList {
 private:
-    Node* head;
+    Node* head; 
 
 public:
     /// @brief Constructor initializes an empty list.
